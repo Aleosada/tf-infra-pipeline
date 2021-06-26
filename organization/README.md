@@ -1,5 +1,9 @@
 # AWS Organization - Criação de OUs e contas
 
+## Diagrama
+
+![diagrama](./assets/diagram.png)
+
 ## Pré requisitos
 
 * Configuração do AWS cli para conta master
