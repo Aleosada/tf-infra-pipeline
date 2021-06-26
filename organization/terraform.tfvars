@@ -1,0 +1,6 @@
+organizational_unit_name = "Sandbox"
+devops_account_email = "aws.sandbox.devops@hotmail.com"
+development_account_email = "aws.sandbox.development@hotmail.com"
+uat_account_email = "aws.sandbox.uat@hotmail.com"
+production_account_email = "aws.sandbox.production@hotmail.com"
+master_user_name = "alexandre.osada"
