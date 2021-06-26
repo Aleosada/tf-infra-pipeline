@@ -17,7 +17,8 @@
 * Alterar as informações do bucket e dynamo table no arquivo main.tf
 * Alterar as variáveis no arquivo terraform.tfvars
 * Executar os comandos:
-```terraform init
+```
+terraform init
 terraform plan
 terraform apply
 ```
